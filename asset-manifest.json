@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-kyc-verification/static/css/main.d4cc400c.chunk.css",
-    "main.js": "/react-kyc-verification/static/js/main.300429f3.chunk.js",
-    "main.js.map": "/react-kyc-verification/static/js/main.300429f3.chunk.js.map",
+    "main.css": "/react-kyc-verification/static/css/main.661cbeac.chunk.css",
+    "main.js": "/react-kyc-verification/static/js/main.ce1f5bb0.chunk.js",
+    "main.js.map": "/react-kyc-verification/static/js/main.ce1f5bb0.chunk.js.map",
     "runtime-main.js": "/react-kyc-verification/static/js/runtime-main.7008b1be.js",
     "runtime-main.js.map": "/react-kyc-verification/static/js/runtime-main.7008b1be.js.map",
     "static/js/2.b64b82f1.chunk.js": "/react-kyc-verification/static/js/2.b64b82f1.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a5235e4d.chunk.js": "/react-kyc-verification/static/js/3.a5235e4d.chunk.js",
     "static/js/3.a5235e4d.chunk.js.map": "/react-kyc-verification/static/js/3.a5235e4d.chunk.js.map",
     "index.html": "/react-kyc-verification/index.html",
-    "static/css/main.d4cc400c.chunk.css.map": "/react-kyc-verification/static/css/main.d4cc400c.chunk.css.map",
+    "static/css/main.661cbeac.chunk.css.map": "/react-kyc-verification/static/css/main.661cbeac.chunk.css.map",
     "static/js/2.b64b82f1.chunk.js.LICENSE.txt": "/react-kyc-verification/static/js/2.b64b82f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7008b1be.js",
     "static/js/2.b64b82f1.chunk.js",
-    "static/css/main.d4cc400c.chunk.css",
-    "static/js/main.300429f3.chunk.js"
+    "static/css/main.661cbeac.chunk.css",
+    "static/js/main.ce1f5bb0.chunk.js"
   ]
 }
